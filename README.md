@@ -7,4 +7,4 @@ Olá, eu sou o Gustavo Dagostin! 🖐️
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavodagostin752@hotmail.com)
 
 
-#### 👨‍💻 Quality Assurance | Agile <br> 📚 Cursando pós graduação em QA e Teste de Software
+#### 👨‍💻 Quality Assurance <br> 📚 Cursando pós graduação em QA e Teste de Software
