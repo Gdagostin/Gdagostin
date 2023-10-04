@@ -6,7 +6,7 @@ Olá, eu sou o Gustavo Dagostin! 🖐️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dagostingustavo/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavodagostin752@hotmail.com)
 
-👨‍💻 Quality Assurance | Agile <br> 📚 Cursando pós graduação em QA e Teste de Software <br>
+👨‍💻 Analista de Testes Pleno | QA | Quality Assurance | Agile <br> 📚 Cursando pós graduação em QA e Teste de Software <br>
 
 Estudando as técnologias abaixo:
 -
