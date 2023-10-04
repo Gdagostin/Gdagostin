@@ -9,9 +9,7 @@ Olá, eu sou o Gustavo Dagostin! 🖐️
 👨‍💻 Analista de Testes Pleno | QA | Quality Assurance | Agile <br> 📚 Cursando pós graduação em QA e Teste de Software <br>
 
 Estudando as técnologias abaixo:
-
 #
-
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whitee)](https://www.java.com/pt-BR/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.info/document)
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
