@@ -16,3 +16,4 @@ Estudando as técnologias abaixo:
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![Cypress](https://img.shields.io/badge/Cypress-blue?style=for-the-badge)](https://www.cypress.io/)
 [![Selenium](https://img.shields.io/badge/Selenium-greeb?style=for-the-badge)](https://www.selenium.dev/)
+[![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)]([https://www.selenium.dev/](https://www.postman.com/)https://www.postman.com/)
