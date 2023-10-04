@@ -10,7 +10,7 @@ Olá, eu sou o Gustavo Dagostin! 🖐️
 
 Estudando as técnologias abaixo:
 
-<hr size="0.5">
+<hr size="0.1">
 
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whitee)](https://www.java.com/pt-BR/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.info/document)
