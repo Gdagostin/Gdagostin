@@ -15,6 +15,7 @@ Estudando as técnologias abaixo:
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whitee)](https://www.java.com/pt-BR/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.info/document)
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Cypress](https://img.shields.io/badge/Cypress-blue?style=for-the-badge)](https://www.cypress.io/)
 [![Selenium](https://img.shields.io/badge/Selenium-greeb?style=for-the-badge)](https://www.selenium.dev/)
 [![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)](https://www.postman.com/)
