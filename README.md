@@ -6,14 +6,15 @@ Olá, eu sou o Gustavo Dagostin! 🖐️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dagostingustavo/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavodagostin752@hotmail.com)
 
-💻 Analista de QA com mais de 7 anos de experiência em testes manuais. Atuação em sistemas contábeis e foco atual em automação com Playwright e TypeScript. Apaixonado por tecnologia e qualidade de software.
-<br> 📚 Pós-graduado em QA e Teste de Software
+💻 Analista de QA com mais de 7 anos de experiência em testes manuais em sofware contábil. Estudando programação e automação de testes com foco atual em automação com Playwright e TypeScript. Apaixonado por tecnologia e qualidade de software. <br> 
+📚 Pós-graduado em QA e Teste de Software
 
 ##
 
 Conhecimento nas tecnologias abaixo: 
 
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whitee)](https://www.java.com/pt-BR/)
+[![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.info/document)
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
