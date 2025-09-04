@@ -7,7 +7,7 @@ Olá, eu sou o Gustavo Dagostin! 🖐️
 💻 Analista de QA com mais de 7 anos de experiência em testes manuais em sofware contábil. Estudando programação e automação de testes com foco atual em automação com Playwright e TypeScript. Apaixonado por tecnologia e qualidade de software. <br> 
 📚 Pós-graduado em QA e Teste de Software
 
-## 💡 Conhecimento nas tecnologias
+## 💡 Conhecimento nas tecnologias abaixo
 
 ### 📝 Linguagens
 
