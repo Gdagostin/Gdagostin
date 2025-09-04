@@ -2,7 +2,7 @@
 Olá, eu sou o Gustavo Dagostin! 🖐️
 ---
 
-## Sobre mim
+### Sobre mim
 
 💻 Analista de QA com mais de 7 anos de experiência em testes manuais em sofware contábil. Estudando programação e automação de testes com foco atual em automação com Playwright e TypeScript. Apaixonado por tecnologia e qualidade de software. <br> 
 📚 Pós-graduado em QA e Teste de Software
@@ -54,7 +54,7 @@ Olá, eu sou o Gustavo Dagostin! 🖐️
 
 ## 📫 Contato
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dagostin-b0103799//)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dagostin)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dagostingustavo/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavodagostin752@hotmail.com)
 
