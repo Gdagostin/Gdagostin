@@ -12,11 +12,11 @@ Olá, eu sou o Gustavo Dagostin! 🖐️
 ### 📝 Linguagens
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=orange" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-AutoIt-1C3552?style=flat&logo=autoit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
 </div>
 
 ### 🧪 Ferramentas de testes
