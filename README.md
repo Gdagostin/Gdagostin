@@ -51,6 +51,8 @@ Olá, eu sou o Gustavo Dagostin! 🖐️
 ## 📊 Estatísticas de Linguagens
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdagostin&layout=compact&langs_count=8&theme=default)
+![Anuraghazra's github stats](https://github-readme-stats.vercel.app/api?username=Gdagostin&show_icons=true&theme=dark&hide_border=true&count_private=true&show_langs_count=true)
+
 
 ## 📫 Contato
 
